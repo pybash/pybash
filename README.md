@@ -3,7 +3,7 @@
   <br><br>
   pybash
   <br><br>
-  <b>✨ Backend and Front-end developer, UI Design as a hobby, and a cybersecurity enthusiast! ✨</b>
+  <b>✨ Backend and Front-end developer, UI Design as a hobby, and a white-hat cybersecurity enthusiast! ✨</b>
   <br>
   <b>💻 C++, Python, Javascript, and more! 💻</b>
   <br>
