@@ -8,6 +8,8 @@
   <b>💻 C++, Python, Javascript, and more! 💻</b>
   <br>
   <b>🤝 Cooperative 🤝</b>
+  <br>
+  <p>Unfinsished projects galore!</p>
   <br><br><br>
   -==-<br>
   pybash
