@@ -9,7 +9,7 @@
   <br>
   <b>🤝 Cooperative 🤝</b>
   <br>
-  <p>Unfinsished projects galore!</p>
+  <b>Unfinsished projects galore!</b>
   <br><br><br>
   -==-<br>
   pybash
