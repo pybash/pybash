@@ -1,3 +1,3 @@
 <p align="center">
-  <b>Software Engineer @ RIT</b>
+  <b>Software Engineering @ RIT</b>
 </p>
